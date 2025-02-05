@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "393495805853",
+    "project_id": "bloc-photo-library-001",
+    "storage_bucket": "bloc-photo-library-001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393495805853:android:91afd74cd89a91bc1b3974",
+        "android_client_info": {
+          "package_name": "com.example.pizza_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3HuYwvsqDaq_73rKfM6II7bytwqnyqpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393495805853:android:8835d921c008f46a1b3974",
+        "android_client_info": {
+          "package_name": "ro.wihvi.blocandfirebase_course"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3HuYwvsqDaq_73rKfM6II7bytwqnyqpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
