@@ -1,2 +1,2 @@
-# flutter-bloc-learning
-Flutter Bloc official tutorials
+# Flutter Bloc and Firebase Learning
+
